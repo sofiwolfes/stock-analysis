@@ -21,7 +21,7 @@ The refactored code was a bit more complicated to understand, but once you got a
 ## Results:
 When you compare the two exact same spreadsheets; the one done throughout the module, and the one done for the challenge, you get the same exact results with only two differences:
 1. Different code (less lines of code, more efficient and straight to the point)
-2. Faster running times:
+2. Faster running times
 
 See below the differences in running times for the analysis performed for the data of 2017:
 
@@ -29,9 +29,8 @@ See below the differences in running times for the analysis performed for the da
 ![Alt text](https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 And below you can see here the differences in running times for the analysis performed for the data of 2018:
-![Alt text](
-![Alt text](
+![Alt text](https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Module_2018.png)
+![Alt text](https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 As we predicted, the difference on time is not huge in this case given no-so-large data sets, but this same refactorization could mean a completely different story when we work with enormous data sets.
-
