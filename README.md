@@ -11,7 +11,8 @@ We have listed some advantages below:
 - We review the code and add notes to explain what we are doing to facilitate its comprehension
 
 On the other hand, some disadvantages are:
-- If you are an inexperienced analyst, the code might be less complicated to understand despite being simpler and straight to the point.
+- If you are an inexperienced analyst, the code might be less complicated to understand despite being simpler and straight to the point
+- It might take more time to get to a code that works correctly and gives you the same results
 
 ### Advantages and disadvantages of the original and refactored VBA script
 In this particular case, I think the first code we used was more steps by step, and the purpose was to learn basic concepts, which made the original non-refactored code extremely helpful.
