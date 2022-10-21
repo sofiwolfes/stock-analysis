@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-Analysis
 Refactoring code to make it more efficient, by taking fewer steps and using less memory. Analyzing stock data to find the total daily volume and yearly return for each stock.
 
 ## Purpose and background:
@@ -25,27 +25,13 @@ When you compare the two exact same spreadsheets; the one done throughout the mo
 
 See below the differences in running times for the analysis performed for the data of 2017:
 
+![Alt text](https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Module_2017.png)
 ![Alt text](https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 And below you can see here the differences in running times for the analysis performed for the data of 2018:
-
-
+![Alt text](
+![Alt text](
 
 ## Summary
 As we predicted, the difference on time is not huge in this case given no-so-large data sets, but this same refactorization could mean a completely different story when we work with enormous data sets.
 
-
-
-
-
-
-DELETE BELOW
-The written analysis has the following:
-
-Overview of Project
-The purpose and background are well defined (2 pt).
-Results
-The analysis is well described with screenshots and code (4 pt).
-Summary
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
