@@ -24,6 +24,14 @@ When you compare the two exact same spreadsheets; the one done throughout the mo
 2. Faster running times:
 
 See below the differences in running times for the analysis performed for the data of 2017:
+
+![Alt text] (https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![Alt text](https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+![Alt text]Resources/VBA_Challenge_2017.png
+![Alt text] https://github.com/sofiwolfes/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
+
+
 ![alt text][Resources/VBA_Challenge_2017.png](https://github.com/sofiwolfes/stock-analysis/blob/0aeb21f8940084e70ba406fbfd0335b59d8de854/Resources/VBA_Challenge_2017.png)
 
 And below you can see here the differences in running times for the analysis performed for the data of 2018:
